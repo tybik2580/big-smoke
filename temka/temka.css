@@ -1,0 +1,237 @@
+#bs{
+    height: 4000px; width: 2000px;
+}
+a{
+    font-size: 30px;
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan;
+    padding: 20px;
+    color: rgb(255, 255, 255);
+}
+
+
+
+h1{
+    font-size: 4em;
+    left: 40%;
+    color: black;
+    position: absolute;
+}
+
+#q{
+    display: flex;
+    font-size: 3em;
+    left: 45%;
+    top: 250px;
+    position: absolute;
+    margin: 0%;
+    border-bottom: 5px solid black;
+    border-left: 100px;
+    border-right: 100px;
+
+    
+}
+p{
+    font-size: 20px;
+    position: absolute;
+    left: 7em;
+    top: 30em;
+}
+
+#ana{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 25em;
+    left: 7em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+}
+
+a{
+    font-size: 15px;
+    top: 44em;
+    left: 11em;
+    position: absolute;
+    background-color: #00ffff;
+    color:black
+}
+#ban{
+    font-size: 20px;
+    position: absolute;
+    left: 30em;
+    top: 30em;
+}
+#ban2{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 25em;
+    left: 35em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+}
+#ban1{
+    font-size: 15px;
+    top: 44em;
+    left: 41em;
+    position: absolute;
+    background-color: #00ffff;
+}
+
+#bm1{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 25em;
+    left: 70em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+}
+
+#bm{
+    font-size: 20px;
+    position: absolute;
+    left: 55em;
+    top: 30em;
+}
+#bm2{
+    font-size: 15px;
+    top: 44em;
+    left: 79em;
+    position: absolute;
+    background-color: #00ffff;
+}
+
+#vin1{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 25em;
+    left: 98em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+}
+
+#vin{
+    font-size: 20px;
+    position: absolute;
+    left: 80em;
+    top: 30em;
+}
+#vin2{
+    font-size: 15px;
+    top: 44em;
+    left: 109em;
+    position: absolute;
+    background-color: #00ffff;
+}
+
+#vih1{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 50em;
+    left: 7em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+    margin-bottom: 5em;
+}
+
+#vih{
+    font-size: 20px;
+    position: absolute;
+    left: 7em;
+    top: 50em;
+}
+#vih2{
+    font-size: 15px;
+    top: 71em;
+    left: 11em;
+    position: absolute;
+    background-color: #00ffff;
+}
+
+#cav1{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 50em;
+    left: 35em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+    margin-bottom: 5em;
+}
+#cav{
+    font-size: 20px;
+    position: absolute;
+    left: 30em;
+    top: 50em;
+}
+#cav2{
+    font-size: 15px;
+    top: 71em;
+    left: 41em;
+    position: absolute;
+    text-align: right 10%;
+    background-color: #00ffff;
+}
+
+#man1{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 50em;
+    left: 70em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+    margin-bottom: 5em;
+}
+
+#man{
+    font-size: 20px;
+    position: absolute;
+    left: 58em;
+    top: 50em;
+}
+
+#man2{
+    font-size: 15px;
+    top: 71em;
+    left: 79em;
+    position: absolute;
+    background-color: #00ffff;
+}
+
+#mand1{
+    height: 200px; width: 200px;
+    position: absolute;
+    top: 50em;
+    left: 98em;
+    border: 3px solid black;
+    border-bottom: 30px;
+    border-radius: 50px;
+    margin-bottom: 5em;
+}
+
+#mand{
+    font-size: 20px;
+    position: absolute;
+    left: 80em;
+    top: 50em;
+}
+
+#mand2{
+    font-size: 15px;
+    top: 71em;
+    left: 109em;
+    position: absolute;
+    background-color: #00ffff;
+    color: black;
+}
+
+a:hover {
+    box-shadow: 0 0 5px cyan,
+    0 0 25px cyan, 0 0 50px,
+    0 0 100px cyan, 0 0 200px cyan;
+}
